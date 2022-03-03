@@ -1,0 +1,15 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: red;
+  font-size: 30px;
+  font-weight: 900;
+
+  &:hover {
+    color: darken(red, 10%);
+    background-color: linear-gradient(to right, red, yellow);
+  }
+}

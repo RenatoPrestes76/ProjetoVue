@@ -1,0 +1,2 @@
+Nessa pasta irão as imagens.
+Nessa pasta, também, poderá conter o arquivo "GlobalStyles.css" para que seja importado no main.js. Ou "GlobalStyles.scss" para que seja importado no App.vue.

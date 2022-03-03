@@ -1,0 +1,11 @@
+p {
+  color: red;
+  font-size: 30px;
+  font-weight: 900;
+  cursor: pointer;
+
+  &:hover {
+    color: darken(red, 10%);
+    background-color: linear-gradient(to right, red, yellow);
+  }
+}
