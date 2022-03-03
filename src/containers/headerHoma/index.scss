@@ -1,0 +1,47 @@
+#headerHome{
+    display: flex;
+    justify-content: space-between;
+    height: 20%;
+    width: 100%;
+    padding: 1em 1em 0 1em;
+}
+
+#containerLogo{
+    max-width: 140px;
+}
+
+#horario{
+    font-size: 65px;
+    color: #222222;
+    height: 120px;
+}
+
+#Dia{
+    text-align: center;
+    color: #222222;
+    font-size: 12px;
+}
+
+#CondicoesCllima{
+    margin: 1em;
+    margin-right: 5%;
+}
+
+#Localizacao h1{
+    font-size: 12px;
+}
+
+#Clima{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 45px;
+}
+
+
+#Clima p{
+    font-size: 40px;
+    font-weight: bold;
+    color: #222222;
+
+}

@@ -1,22 +1,18 @@
 <template>
-  <h1>{{ text }}</h1>
+    
 </template>
 
 <script>
-// Imports
-
 export default {
-  name: 'Title',
-  props: {
-    text: {
-      type: String,
-      required: true,
-      default: 'Título Padrão',
-    },
-  },
-};
+    name: 'titleContent',
+    props: {
+        
+    }
+}
 </script>
 
-<style lang="scss" scoped>
-@import './index.scss';
+<style scoped lang="scss">
+    @import "./index.scss";
 </style>
+
+aqui entro com os h1/h2......, desafio
